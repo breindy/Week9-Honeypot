@@ -29,13 +29,16 @@ Time spent: **15** hours spent in total
 - Any issues you encountered
 The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
 - A summary of the data collected: number of attacks,number of malware samples, etc.
-**number of attacks: **
-**number of malware samples: **
+
+**number of attacks:**
+
+**number of malware samples:**
 
 - Any unresolved questions raised by the data collected
 None as of right now.
 
 - References
+
 [MHN](https://github.com/threatstream/mhn#installing-server-tested-ubuntu-12043-x86_64-and-centos-67 "MHN")
 
 [gcp mhn instructions](https://github.com/RedolentSun/gcloud-instructions-for-mhn)
