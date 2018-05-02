@@ -30,7 +30,8 @@ Time spent: **15** hours spent in total
   
 ### Any issues you encountered
 The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
-- A summary of the data collected: number of attacks,number of malware samples, etc.
+
+### Attack Summary
 
 **number of attacks:** 11,915
 
