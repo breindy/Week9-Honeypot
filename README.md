@@ -20,24 +20,38 @@ Time spent: **15** hours spent in total
 ![Alt Text](honeypot-demo.gif)
 
 
-- Which Honeypot(s) you deployed
+### Which Honeypot(s) you deployed
 1. dionaea with HTTP
 2. snort
 3. amun
 4. cowrie
+
+![Alt Text](honeypot-overview.gif)
   
-- Any issues you encountered
+### Any issues you encountered
 The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
 - A summary of the data collected: number of attacks,number of malware samples, etc.
 
-**number of attacks:**
+**number of attacks:** 11,915
 
-**number of malware samples:**
+**Top 5 Attacker IPs:** 
+1. 118.89.239.33 (4,063 attacks)
+2. 123.207.146.91 (3,962 attacks)
+3. 46.166.142.231 (336 attacks)
+4. 50.232.230.82 (310 attacks)
+5. 175.101.84.42 (114 attacks)
 
-- Any unresolved questions raised by the data collected
+**Top 5 Attacked Ports:**
+1. 80 (8,191 times)
+2. 445 (1,413 times)
+3. 5060 (479 times)
+4. 8080 (174 times)
+5. 3306 (132 times)
+
+### Any unresolved questions raised by the data collected
 None as of right now.
 
-- References
+### References
 
 [MHN](https://github.com/threatstream/mhn#installing-server-tested-ubuntu-12043-x86_64-and-centos-67 "MHN")
 
